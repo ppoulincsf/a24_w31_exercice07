@@ -31,6 +31,8 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+!/Exercice07/ConstructeurCopie/extern/VLD/[Bb]in
+!/Exercice07/HeritagePolymorphsime/extern/VLD/[Bb]in
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
